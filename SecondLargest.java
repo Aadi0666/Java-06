@@ -21,6 +21,8 @@ public class SecondLargest {
             }
         }
         System.out.println("SecondLargest element is: " + slargest);
+        System.out.println("Largest element is: " + largest);
         System.out.println("Secondsmallest element is: " + ssmallest);
+        System.out.println("Smallest element is: " + smallest);
     }
 }
